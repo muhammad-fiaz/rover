@@ -1,3 +1,6 @@
-[submodule "crates/rover-uefi"]
-	path = crates/rover-uefi
+[submodule "bootloader"]
+	path = bootloader
+	url = https://github.com/muhammad-fiaz/rover-bootloader.git
+[submodule "crates/uefi"]
+	path = crates/uefi
 	url = https://github.com/muhammad-fiaz/rover-uefi.git
