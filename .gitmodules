@@ -4,3 +4,6 @@
 [submodule "crates/uefi"]
 	path = crates/uefi
 	url = https://github.com/muhammad-fiaz/rover-uefi.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/muhammad-fiaz/rover-kernel.git
